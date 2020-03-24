@@ -7,3 +7,11 @@ Many generous people/startup and organisations are coming forward to offer their
 ### Submit a resource
 
 To submit any resource, please use the following form: https://forms.gle/fQ3pcyUrsQop4Va59
+
+
+## Resources
+
+### Courses
+
+* [Blogging for Business](https://ahrefs.com/academy/blogging-for-business) by Ahrefs Academy
+* [All Paid courses](https://www.guvi.in/courses) by Guvi
