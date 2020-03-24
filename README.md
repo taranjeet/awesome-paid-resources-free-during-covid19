@@ -15,3 +15,4 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 
 * [Blogging for Business](https://ahrefs.com/academy/blogging-for-business) by Ahrefs Academy
 * [All Paid courses](https://www.guvi.in/courses) by Guvi
+* [Unity Learn Premium](https://unity.com/products/learn-premium) by Unity
