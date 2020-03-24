@@ -16,3 +16,9 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 * [Blogging for Business](https://ahrefs.com/academy/blogging-for-business) by Ahrefs Academy
 * [All Paid courses](https://www.guvi.in/courses) by Guvi
 * [Unity Learn Premium](https://unity.com/products/learn-premium) by Unity
+
+
+### Products
+
+* [Zoom](https://zoom.us/) - Lifted the limit for 40 min video calls for [schools in Canada, US and Germany](https://blog.zoom.us/wordpress/2020/03/22/how-to-use-zoom-for-online-learning/)
+* [Audible](https://stories.audible.com/start-listen) - Made several titles [free for kids](https://cnalifestyle.channelnewsasia.com/trending/audiobook-platform-audible-free-during-covid-19-12564678)
