@@ -19,7 +19,7 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 * [Unity Learn Premium](https://unity.com/products/learn-premium) by Unity
 * [All courses](https://www.clevergirlfinance.com/course-packages/) on CleverGirlFinance
 * [Product Management Course](https://www.linkedin.com/feed/update/urn:li:activity:6649945693106647040/) by PragmaticLeaders.io
-
+* [All Courses](https://www.pluralsight.com/) by PluralSight for month of April
 
 ### Products
 
