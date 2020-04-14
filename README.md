@@ -23,6 +23,7 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 * [Elastic Stack Training](https://training.elastic.co/learn-from-home) by Elastic
 * [Introduction to Flutter Development Using Dart
 ](https://www.appbrewery.co/p/intro-to-flutter) by The App Brewery ([context here](https://medium.com/flutter/learn-flutter-for-free-c9bc3b898c4d))
+* [Embracing Change](https://harappa.education/courses/embracing-change) by Harappa Education
 
 ### Products
 
