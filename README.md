@@ -21,6 +21,8 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 * [Product Management Course](https://www.linkedin.com/feed/update/urn:li:activity:6649945693106647040/) by PragmaticLeaders.io
 * [All Courses](https://www.pluralsight.com/) by PluralSight for month of April
 * [Elastic Stack Training](https://training.elastic.co/learn-from-home) by Elastic
+* [Introduction to Flutter Development Using Dart
+](https://www.appbrewery.co/p/intro-to-flutter) by The App Brewery ([context here](https://medium.com/flutter/learn-flutter-for-free-c9bc3b898c4d))
 
 ### Products
 
