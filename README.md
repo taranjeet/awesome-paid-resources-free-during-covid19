@@ -26,6 +26,9 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 * [Embracing Change](https://harappa.education/courses/embracing-change) by Harappa Education
 * [All Courses](https://educode.org/courses) by Educode
 * [All Courses](https://blitzmetrics.com/our-courses-and-academy-are-free-for-a-limited-time/) by Blitzmetrics
+* [All courses](https://www.nikonevents.com/us/live/nikon-school-online/) by Nikon
+* [20,000 Free Live Classes](https://blog.unacademy.com/20-000-free-live-classes-stepping-up-in-the-face-of-the-covid-19-threat-7c05dc880403) by Unacademy
+* [All library](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community) by Scribd for 30 days
 
 
 ### Products
