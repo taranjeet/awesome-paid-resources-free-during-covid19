@@ -25,6 +25,8 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 ](https://www.appbrewery.co/p/intro-to-flutter) by The App Brewery ([context here](https://medium.com/flutter/learn-flutter-for-free-c9bc3b898c4d))
 * [Embracing Change](https://harappa.education/courses/embracing-change) by Harappa Education
 * [All Courses](https://educode.org/courses) by Educode
+* [All Courses](https://blitzmetrics.com/our-courses-and-academy-are-free-for-a-limited-time/) by Blitzmetrics
+
 
 ### Products
 
