@@ -29,7 +29,7 @@ To submit any resource, please use the following form: https://forms.gle/fQ3pcyU
 * [All courses](https://www.nikonevents.com/us/live/nikon-school-online/) by Nikon
 * [20,000 Free Live Classes](https://blog.unacademy.com/20-000-free-live-classes-stepping-up-in-the-face-of-the-covid-19-threat-7c05dc880403) by Unacademy
 * [All library](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community) by Scribd for 30 days
-* [All courses](https://docs.google.com/forms/d/e/1FAIpQLSfJq_oSCvB5jmGGPigcZ5hA724JpQrBF1TyvfRWtn33rbenrA/viewform) by BLue Array
+* [All courses](https://docs.google.com/forms/d/e/1FAIpQLSfJq_oSCvB5jmGGPigcZ5hA724JpQrBF1TyvfRWtn33rbenrA/viewform) by Blue Array
 
 ### Products
 
